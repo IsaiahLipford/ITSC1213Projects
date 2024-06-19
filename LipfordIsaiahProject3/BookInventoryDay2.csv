@@ -1,0 +1,16 @@
+ProductID,Title,Type,Author/Artist,Quantity,Price
+1,Fahrenheit 451,Book,9.99,7
+2,1984,Book,15.99,4
+3,to kill a mockingbird,Book,12.99,12
+4,beloved,Book,13.50,4
+5,the little prince,Book,7.00,10
+6,brave new world,Book,19.00,15
+7,charlotte's web,Book,8.99,10
+8,hitchhiker's guide to the galaxy,Book,9.99,5
+9,catch-22,Book,11.99,20
+10,flowers for algernon,Book,6.99,7
+11,a night at the opera,CD,6.99,14
+12,cuz I love you,CD,7.99,8
+13,a hard day's night,CD,3.99,3
+14,the dark knight,DVD,12.99,5
+15,jurassic park,DVD,7.99,7

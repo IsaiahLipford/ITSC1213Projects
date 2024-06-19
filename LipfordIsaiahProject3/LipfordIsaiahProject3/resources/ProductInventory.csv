@@ -1,0 +1,16 @@
+productID,type,title,author/artist,quantity,price
+1,Book,Fahrenheit 451,ray Bradbury,8,9.99
+2,Book,1984,George Orwell,5,15.99
+3,Book,to kill a mockingbird,harper lee,12,12.99
+4,Book,beloved,Toni Morrison,4,13.5
+5,Book,the little prince,antoine de saint exupéry,10,7.00
+6,Book,brave new world,Aldous Huxley,15,19
+7,Book,charlotte's web,e.b. white,10,8.99
+8,Book,hitchhiker's guide to the galaxy,douglas adams,5,9.99
+9,Book,catch-22,joseph heller,20,11.99
+10,Book,flowers for algernon,daniel keyes,7,6.99
+11,CD,a night at the opera,queen,14,6.99
+12,CD,cuz I love you,lizzo,8,7.99
+13,CD,a hard day's night,the beatles,3,3.99
+14,DVD,the dark knight,n/a,5,12.99
+15,DVD,jurassic park,n/a ,7,7.99
